@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@import 'tw-animate-css';
+
+@theme {
+  /* Vibrant custom colors for the app */
+  --color-violet-50: #faf5ff;
+  --color-violet-500: #8b5cf6;
+  --color-violet-600: #7c3aed;
+  
+  --color-purple-600: #9333ea;
+  
+  --color-coral-500: #ff6b6b;
+  
+  --color-orange-50: #fff7ed;
+  --color-orange-500: #ff8a65;
+  
+  --color-teal-50: #f0fdfa;
+  --color-teal-400: #2dd4bf;
+  --color-teal-500: #14b8a6;
+  
+  --color-cyan-500: #06b6d4;
+  --color-cyan-600: #0891b2;
+  
+  --color-pink-50: #fdf2f8;
+  --color-pink-600: #db2777;
+  
+  --color-emerald-50: #ecfdf5;
+  --color-emerald-100: #d1fae5;
+  --color-emerald-300: #6ee7b7;
+  --color-emerald-500: #10b981;
+  --color-emerald-800: #065f46;
+  
+  --color-red-400: #f87171;
+  --color-red-500: #ef4444;
+  
+  --color-amber-400: #fbbf24;
+  
+  --color-gray-50: #f9fafb;
+  --color-gray-100: #f3f4f6;
+  --color-gray-200: #e5e7eb;
+  --color-gray-300: #d1d5db;
+  --color-gray-500: #6b7280;
+  --color-gray-600: #4b5563;
+  --color-gray-700: #374151;
+  --color-gray-900: #111827;
+}
